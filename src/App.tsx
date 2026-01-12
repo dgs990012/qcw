@@ -132,10 +132,10 @@ const apps = [
   },
 {
     id: 19,
-    name: "NG28",
+    name: "新时代",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
-    url: "https://38.181.23.18:60004/#/link?allwin=22198286",
+    iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
   },
     {
     id: 20,
