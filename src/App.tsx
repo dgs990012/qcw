@@ -135,14 +135,14 @@ const apps = [
     name: "新时代",
     description: "",
     iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
-    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
+    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
   },
     {
     id: 20,
     name: "君临国际",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
-    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
+    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
   },
 ];
 
