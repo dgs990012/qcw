@@ -24,6 +24,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg",
     url: "https://wcwx.paradisemall.net/app/register.php?site_id=1050&topId=880722&selfPlanId=855049",
   },
+     {
+    id: 4,
+    name: "君临国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413",
+  },
   {
     id: 4,
     name: "NG体育",
@@ -109,13 +116,7 @@ const apps = [
     iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
     url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
   },
-    {
-    id: 16,
-    name: "君临国际",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
-    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
-  },
+ 
 ];
 
 function App() {
