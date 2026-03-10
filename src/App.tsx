@@ -116,6 +116,31 @@ const apps = [
     iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
     url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
   },
+   {
+    id: 14,
+    name: "星耀国际",
+    description: "",
+    iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
+    url: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066',
+  }, {
+    id: 14,
+    name: "星耀国际",
+    description: "",
+    iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
+    url: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066',
+  }, {
+    id: 14,
+    name: "星耀国际",
+    description: "",
+    iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
+    url: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066',
+  }, {
+    id: 14,
+    name: "星耀国际",
+    description: "",
+    iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
+    url: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066',
+  },
  
 ];
 
