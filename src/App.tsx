@@ -9,13 +9,7 @@ const apps = [
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg",
     url: "https://149.30.210.144:35384/#/link?allwin=7qsbWl9437468",
-  },    {
-    id: 2,
-    name: "老友会",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/69ce20a038e406efb4363371.jpg",
-    url: "https://laoaasgjoa.top/rect/?code=94657",
-  },
+  },   
   {
     id: 3,
     name: "胜天国际",
