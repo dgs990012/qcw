@@ -148,6 +148,13 @@ const apps = [
     iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
     url: 'https://tz.wxdmg6.cc/app/register.php?site_id=2228&topId=1661558',
   },
+ {
+    id: 22,
+    name: "汇赢国际",
+    description: "",
+    iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
+    url: 'https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918',
+  },
  
 ];
 
