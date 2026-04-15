@@ -155,7 +155,13 @@ const apps = [
     iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
     url: 'https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918',
   },
- 
+    {
+    id: 6,
+    name: "梦想国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/69df01c6f76f4dd14b4c2858.jpg",
+    url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
+  },
 ];
 
 function App() {
