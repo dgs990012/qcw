@@ -14,7 +14,7 @@ const apps = [
     id: 3,
     name: "胜天国际",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/69e2f37a087b33b46ad7bb39.jpg",
+    iconUrl: "https://i.postimg.cc/D05BSg6D/xin-sheng-tian-guo-ji.jpg",
     url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
   },
     {
@@ -64,7 +64,7 @@ const apps = [
     id: 10,
     name: "top1体育",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/69e2f37a087b33b46ad7bb38.jpg",
+    iconUrl: "https://i.postimg.cc/FzGDYZpB/xin-TOP-ti-yu.jpg",
     url: "https://bakmry.gziasti.com/app/register.php?site_id=1051&topId=457911",
   },
    {
