@@ -67,26 +67,13 @@ const apps = [
     iconUrl: "https://i.postimg.cc/FzGDYZpB/xin-TOP-ti-yu.jpg",
     url: "https://bakmry.gziasti.com/app/register.php?site_id=1051&topId=457911",
   },
-   {
-    id: 11,
-    name: "东升国际",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/68692e6758cb8da5c89176fe.jpg",
-    url: "https://tz.wx-zxivoq2.com/app/register.php?site_id=2173&topId=1090266",
-  },
+  
   {
     id: 12,
     name: "亿万28",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/68a570b358cb8da5c83d12f9.jpg",
     url: "https://xjvueb.hefaship.com/app/register.php?site_id=1017&topId=7061046",
-  },
-    {
-    id: 13,
-    name: "保时捷国际",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/68dbfe46c5157e1a884b253c.jpg",
-    url: "https://bsj.iypcst.com/app/register.php?site_id=134523275&topId=82386",
   },
   {
     id: 14,
@@ -141,12 +128,6 @@ const apps = [
     description: "",
     iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
     url: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632',
-  }, {
-    id: 22,
-    name: "大满贯",
-    description: "",
-    iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
-    url: 'https://tz.wxdmg6.cc/app/register.php?site_id=2228&topId=1661558',
   },
  {
     id: 22,
