@@ -150,6 +150,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg",
     url: "https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808",
   },
+          {
+      id: 21,
+      name: '戴高乐',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
+       url: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
+    }, 
 ];
 
 function App() {
