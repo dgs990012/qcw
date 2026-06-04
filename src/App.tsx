@@ -162,7 +162,7 @@ const apps = [
       name: '聚鑫汇',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg',
-      appUrl: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
+      url: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
     }, 
 ];
 
