@@ -1,4 +1,3 @@
-import { Sparkles } from 'lucide-react';
 
 const marqueeText = "强烈推荐非凡娱乐 ";
 
